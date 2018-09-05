@@ -1,4 +1,4 @@
 ﻿repテストその２です
 
-masterブランチ自体を変更して、
-non_fast_forwordを再現
+branch2
+のnon_fast_forwordマージテストです。
