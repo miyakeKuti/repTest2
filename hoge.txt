@@ -1,1 +1,5 @@
-repテストその２です
+﻿repテストその２です
+
+int a=32;
+if(a<40)return true;
+return false;
